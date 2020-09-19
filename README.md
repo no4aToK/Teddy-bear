@@ -1,7 +1,5 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Марина Лопатникова](https://up.htmlacademy.ru/adaptive/20/user/224291).
-* Наставник: [Александр Тубольцев]( https://htmlacademy.ru/profile/id86460).
 
 ---
 
